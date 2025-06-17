@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f7f7f7;
+  padding: 20px;
+}
+
+.container {
+  max-width: 700px;
+  margin: auto;
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+#chat-box {
+  height: 400px;
+  overflow-y: auto;
+  border: 1px solid #ccc;
+  padding: 10px;
+  background: #fafafa;
+  margin-bottom: 10px;
+}
+
+.user, .bot, .error {
+  margin: 5px 0;
+}
+
+.user { color: blue; }
+.bot { color: green; }
+.error { color: red; }
+
+.input-area {
+  display: flex;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+button {
+  padding: 5px 10px;
+  cursor: pointer;
+}

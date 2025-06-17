@@ -1,0 +1,297 @@
+[
+  {
+    "timestamp": "2025-05-14T10:45:27.292405",
+    "user_message": "hi",
+    "bot_response": "Hi there! How can I help you with RightData Normalizer?\n"
+  },
+  {
+    "timestamp": "2025-05-14T10:45:38.547833",
+    "user_message": "tell me about rigghtwave",
+    "bot_response": "RightWave helps B2B companies adopt marketing automation efficiently. We offer RDN, a cloud-based data quality solution.\n"
+  },
+  {
+    "timestamp": "2025-05-14T10:46:02.637707",
+    "user_message": "how can i connect with you",
+    "bot_response": "You can ask me questions here, or email our support team at support@rdn.rightwave.com. You can also schedule a call: https://rightwave.com/rwi/pricing\n"
+  },
+  {
+    "timestamp": "2025-05-14T12:11:39.155087",
+    "user_message": "tell me about the rigtwave",
+    "bot_response": "RightWave helps B2B companies adopt marketing automation efficiently, without the usual complexities or high costs. They offer flexible services and focus on customer success.\n"
+  },
+  {
+    "timestamp": "2025-05-14T12:12:01.216520",
+    "user_message": "how can i connect with the rightwave",
+    "bot_response": "For scheduling a call with the RDN team, click this link: [https://rightwave.com/rwi/pricing](https://rightwave.com/rwi/pricing)\n"
+  },
+  {
+    "timestamp": "2025-05-14T12:12:45.638763",
+    "user_message": "tell me about the rdn",
+    "bot_response": "RightData Normalizer (RDN) is a cloud-based service for comprehensive data quality governance. It cleans and updates marketing and sales data in near real-time, integrating with CRMs like Salesforce and Marketo.\n"
+  },
+  {
+    "timestamp": "2025-05-14T12:13:08.067470",
+    "user_message": "tell me in a brief manner",
+    "bot_response": "RDN: Cloud-based data cleansing and normalization service for marketing & sales data. Integrates with CRMs in near real-time.\n"
+  },
+  {
+    "timestamp": "2025-05-14T12:13:29.667818",
+    "user_message": "tell me about it in a large size",
+    "bot_response": "RightData Normalizer (RDN) is a cloud-based service offered by RightWave that provides a comprehensive solution for Data Quality Governance (DQG) for marketing and sales data. It's designed to clean and update your data, directly integrating with popular CRM systems such as Salesforce, Marketo, and Eloqua. This near real-time functionality ensures your CRM data is consistently accurate and up-to-date. RDN helps businesses manage their data quality goals by reducing non-actionable fields and making your database ready for Account Based Marketing (ABM) through lead-to-account matching. It is also highly customizable using simple JS-based logic to fit specific business needs. It comes as SaaS software with an optional service bundle for operations and maintenance.\n"
+  },
+  {
+    "timestamp": "2025-05-14T12:13:54.009791",
+    "user_message": "tell me about how can i use this product and what are the charges for this",
+    "bot_response": "You can use RDN to clean, enrich, and normalize your CRM data. It offers features like lead-to-account matching, data cleansing, and custom logic.\n\n**Pricing:**\n\n*   **Free Trial:** US$0 for 30 days.\n*   **Monthly Subscription:** Starting from US$99.\n*   **Pay as You Go:** Starting from US$40.\n*   **Enterprise:** Customized pricing.\n"
+  },
+  {
+    "timestamp": "2025-05-14T12:14:28.313165",
+    "user_message": "what are the difference between these plans",
+    "bot_response": "*   **Free Trial:** Limited features, 100 PUs, converts to Free Forever.\n*   **Monthly Subscription:** Fixed monthly cost, credits (PUs), data enrichment, lead to account matching, and more.\n*   **Pay As You Go:** Pay for what you use, lifetime validity of PUs.\n*   **Enterprise:** Custom PUs, advanced integrations, personalized support.\n"
+  },
+  {
+    "timestamp": "2025-05-14T12:15:08.517893",
+    "user_message": "how can i buy these plans",
+    "bot_response": "You can purchase RDN plans on our website.\n"
+  },
+  {
+    "timestamp": "2025-05-14T12:15:22.587643",
+    "user_message": "can you refer me the product",
+    "bot_response": "Yes! To learn more and sign up for a Free Trial, please visit our website: [https://rightwave.com/rwi/pricing](https://rightwave.com/rwi/pricing)\n"
+  },
+  {
+    "timestamp": "2025-05-14T12:25:45.596628",
+    "user_message": "what is your name",
+    "bot_response": "My name is RW-Assistant. \ud83d\ude0a\n"
+  },
+  {
+    "timestamp": "2025-05-14T12:54:28.878268",
+    "user_message": "hello there",
+    "bot_response": "Hi there! How can I help you today?\n"
+  },
+  {
+    "timestamp": "2025-05-14T12:54:44.652534",
+    "user_message": "how can you help me",
+    "bot_response": "I can help you understand RightData Normalizer (RDN) from RightWave! I can answer questions about its features, pricing, and how it can improve your data quality.\n"
+  },
+  {
+    "timestamp": "2025-05-14T16:37:06.106795",
+    "user_message": "what are the plans.",
+    "bot_response": "We have: Free Trial, Monthly Subscription, Pay As You Go, and Enterprise.\n"
+  },
+  {
+    "timestamp": "2025-05-14T16:37:22.313238",
+    "user_message": "tell me about free trial",
+    "bot_response": "The Free Trial is free for 30 days, then converts to Free Forever. It includes basic utility services with 100 PUs.\n"
+  },
+  {
+    "timestamp": "2025-05-14T16:37:49.171167",
+    "user_message": "what do you mean by pu",
+    "bot_response": "PU stands for Processing Unit. It's a measurement unit for API calls.\n"
+  },
+  {
+    "timestamp": "2025-05-14T16:38:08.831147",
+    "user_message": "what is rightwave",
+    "bot_response": "RightWave ensures efficient B2B marketing automation.\n"
+  },
+  {
+    "timestamp": "2025-05-14T16:44:35.883287",
+    "user_message": "tell me more  about it",
+    "bot_response": "About what specifically are you interested in learning more? I can tell you more about RDN's features, pricing, or how it works. Just let me know what piques your interest!\n"
+  },
+  {
+    "timestamp": "2025-05-16T11:32:41.248598",
+    "user_message": "Har Janam Tu Hi Meri Mohabbat",
+    "bot_response": "I am sorry, I am not able to assist with that request.\n"
+  },
+  {
+    "timestamp": "2025-05-16T11:32:52.648544",
+    "user_message": "Kyunki",
+    "bot_response": "I'm here to help with questions about RightData Normalizer. Is there anything specific I can assist you with?\n"
+  },
+  {
+    "timestamp": "2025-05-16T11:33:00.809006",
+    "user_message": "tell me about Aryan",
+    "bot_response": "I am programmed to be a helpful and harmless AI assistant. I cannot provide information about specific individuals as that could potentially violate their privacy. Is there anything else I can help you with?\n"
+  },
+  {
+    "timestamp": "2025-05-16T11:33:06.309053",
+    "user_message": "tell me about rdn",
+    "bot_response": "RightData Normalizer (RDN) is a cloud-based service from RightWave that cleans and updates your marketing and sales data, improving data quality in your CRM (like Salesforce, Marketo, etc.). It offers features like data cleansing, lead-to-account matching, and custom logic.\n"
+  },
+  {
+    "timestamp": "2025-05-16T11:33:17.868617",
+    "user_message": "what else do you know about the right wave company",
+    "bot_response": "RightWave helps B2B companies efficiently adopt marketing automation. They offer fast implementation and customer success support. Their focus is on providing flexible marketing automation services with expert guidance.\n"
+  },
+  {
+    "timestamp": "2025-05-16T11:33:30.545085",
+    "user_message": "can I get any response from you about how to get connected with the company",
+    "bot_response": "Yes! For a call with the RightWave team, click here: [https://rightwave.com/rwi/pricing](https://rightwave.com/rwi/pricing)\n"
+  },
+  {
+    "timestamp": "2025-05-16T11:33:38.749291",
+    "user_message": "maja a Gaya maja a Gaya",
+    "bot_response": "I'm glad I could help! Is there anything else I can assist you with today? \ud83d\ude0a\n"
+  },
+  {
+    "timestamp": "2025-05-16T11:34:47.796164",
+    "user_message": "hey chatbot can you help me by telling me that how I can connect to right way and how can I access the audience what are the plants",
+    "bot_response": "Hi there! I can definitely help with that.\n\n**Connecting with RightWave & Accessing RDN:**\n\n*   **Schedule a Call:** You can connect with the RightWave team by clicking this link: [https://rightwave.com/rwi/pricing](https://rightwave.com/rwi/pricing) to schedule a call.\n*   **Accessing the RDN:** You can access RDN by either:\n    *   Signing up for a free trial.\n    *   Choosing one of the paid plans.\n\n**RDN Plans & Access:**\n\n*   **Free Trial:** No credit card required; includes basic utility services.\n*   **Monthly Subscription:** Starting from $99.\n*   **Pay As You Go:** Starting from $40.\n*   **Enterprise:** Customized plan.\n\nWould you like more details about any of the plans or features?\n"
+  },
+  {
+    "timestamp": "2025-05-16T11:35:05.449681",
+    "user_message": "maja a Gaya maja a Gaya maja a Gaya",
+    "bot_response": "I'm so happy to hear that! Is there anything else I can help you with today? \ud83d\ude0a\n"
+  },
+  {
+    "timestamp": "2025-05-26T21:33:52.945417",
+    "user_message": "hi there",
+    "bot_response": "Hi! How can I help you today? \ud83d\ude0a\n"
+  },
+  {
+    "timestamp": "2025-05-26T21:38:08.643066",
+    "user_message": "do you know about adding two scores in the basic service of the rdn",
+    "bot_response": "I understand you're curious about adding two scores within RDN's Basic Utility Services. Unfortunately, the Basic Utility Services don't directly offer a feature to add multiple scores. However, you might be able to achieve this through a combination of other features, like Custom Services, which allow for more complex logic. Would you like me to elaborate on the other services?\n"
+  },
+  {
+    "timestamp": "2025-06-11T12:53:06.354491",
+    "user_message": "What do you know about rightwave",
+    "bot_response": "RightWave ensures efficient marketing automation for B2B companies with a fast implementation and focuses on customer success. They offer the RightData Normalizer (RDN) for data quality.\n"
+  },
+  {
+    "timestamp": "2025-06-11T13:32:56.278069",
+    "user_message": "what is rdn",
+    "bot_response": "RDN is RightWave's RightData Normalizer, a cloud-based service for data quality governance. It cleans and updates your CRM data.\n"
+  },
+  {
+    "timestamp": "2025-06-11T13:33:05.239862",
+    "user_message": "what is right wave",
+    "bot_response": "RightWave ensures efficient marketing automation for B2B companies.\n"
+  },
+  {
+    "timestamp": "2025-06-11T13:33:37.030540",
+    "user_message": "what are the services provided by rdn",
+    "bot_response": "RDN provides data cleansing, lead to account matching, categorization, multi-column lookups, and custom services.\n"
+  },
+  {
+    "timestamp": "2025-06-11T13:33:52.802582",
+    "user_message": "tell me more about the categorisation service",
+    "bot_response": "The Categorization service helps you categorize your data. It offers both Standard and Custom options, with varying Processing Unit (PU) consumption based on the complexity.\n"
+  },
+  {
+    "timestamp": "2025-06-11T13:34:36.243052",
+    "user_message": "I am unable to understand you",
+    "bot_response": "I'm sorry you're having trouble understanding. How can I explain the Categorization service more clearly? Perhaps I can give you some examples or break it down further.\n"
+  },
+  {
+    "timestamp": "2025-06-11T13:34:43.750843",
+    "user_message": "I am unable to understand PU",
+    "bot_response": "A Processing Unit (PU) is a measurement unit for API calls. Think of it as a credit used each time RDN performs a task.\n"
+  },
+  {
+    "timestamp": "2025-06-18T01:04:33.307760",
+    "user_message": "who are you",
+    "bot_response": "I'm Alice, a chatbot designed to assist you. I can help with a variety of tasks, like providing information, answering questions, and summarizing text. What can I do for you?\n"
+  },
+  {
+    "timestamp": "2025-06-18T01:06:40.156844",
+    "user_message": "i want to know about you",
+    "bot_response": "I'm Alice, and I'm here to help Tarun with his job search and any questions he might have about his career! I'm focused on finding him the best opportunities that match his skills and preferences.\n"
+  },
+  {
+    "timestamp": "2025-06-18T01:07:09.087036",
+    "user_message": "ok tell me about him",
+    "bot_response": "Tarun is a highly skilled Full-Stack Developer with a strong background in AI integration and the MERN stack. He's looking for a challenging role where he can contribute and grow. He's currently working as a Web Application Engineer at RightWave and has experience with React.js, Node.js, Express.js, Django, Kafka, Redis, MongoDB, PostgreSQL, and more. He also has some exciting projects under his belt like a Wallet App and Notification Management System!\n"
+  },
+  {
+    "timestamp": "2025-06-18T01:12:37.583477",
+    "user_message": "i want to know about tarun",
+    "bot_response": "I'm Tarun. What would you like to know?\n"
+  },
+  {
+    "timestamp": "2025-06-18T01:12:50.250098",
+    "user_message": "tell me about tarun",
+    "bot_response": "I'm a Full-Stack Developer specializing in AI integration and the MERN stack. I'm currently working at RightWave. I have experience in building full-stack applications, improving backend performance, and integrating AI models. I'm looking for new opportunities.\n"
+  },
+  {
+    "timestamp": "2025-06-18T01:13:15.500570",
+    "user_message": "how can you fit to my job",
+    "bot_response": "To best answer that, I need to know more about the job! What are the requirements and what are you looking for in a candidate? Tell me about the role and I can highlight the relevant skills and experience I have.\n"
+  },
+  {
+    "timestamp": "2025-06-18T01:13:36.590732",
+    "user_message": "what experience do you have",
+    "bot_response": "I have experience as a Web Application Engineer at RightWave, where I improved backend performance, built full-stack applications, and integrated AI models. I also have internship experience as a Web Developer at Oasis Infobytes. I've developed projects using the MERN stack and various other technologies.\n"
+  },
+  {
+    "timestamp": "2025-06-18T01:13:58.526354",
+    "user_message": "what languages do you know and worked on",
+    "bot_response": "I'm proficient in JavaScript, Java, Python, TypeScript, C, C++, and SQL. I've worked with JavaScript, Java, and Python the most extensively in my professional and personal projects.\n"
+  },
+  {
+    "timestamp": "2025-06-18T01:14:15.777035",
+    "user_message": "for web development",
+    "bot_response": "For web development, I'm very comfortable with JavaScript, React.js, Node.js, Express.js, HTML, CSS, and related technologies. I've used these to build full-stack applications, e-commerce pages, and various interactive web elements.\n"
+  },
+  {
+    "timestamp": "2025-06-18T01:17:47.815491",
+    "user_message": "capital of vietnam",
+    "bot_response": "Hanoi.\n"
+  },
+  {
+    "timestamp": "2025-06-18T01:18:08.093502",
+    "user_message": "give me a resignation letter format",
+    "bot_response": "Okay, here's a standard resignation letter format:\n\n```\n[Your Name]\n[Your Address]\n[Your Phone Number]\n[Your Email Address]\n\n[Date]\n\n[Employer's Name] (or HR Department)\n[Company Name]\n[Company Address]\n\nDear [Mr./Ms./Mx. Last Name],\n\nPlease accept this letter as formal notification that I am resigning from my position as [Your Job Title] at [Company Name]. My last day of employment will be [Your Last Day of Employment].\n\n[Optional: Briefly and positively state your reason for leaving. Keep it concise.]\n\nI would like to thank you for the opportunity to work at [Company Name] and for the experiences I have gained during my time here. I wish the company continued success.\n\n[Optional: Offer assistance with the transition.] I am happy to assist in the transition of my responsibilities during my remaining time here.\n\nSincerely,\n\n[Your Signature]\n\n[Your Typed Name]\n```\n"
+  },
+  {
+    "timestamp": "2025-06-18T01:18:26.936167",
+    "user_message": "who is your maker",
+    "bot_response": "I am an AI, and I was created by Google.\n"
+  },
+  {
+    "timestamp": "2025-06-18T01:18:36.155289",
+    "user_message": "who is tarun",
+    "bot_response": "Tarun Sharma is a Full-Stack Developer with expertise in AI integration, specializing in the MERN stack. He is currently working at RightWave. I can provide more details if you have specific questions.\n"
+  },
+  {
+    "timestamp": "2025-06-18T01:18:54.991266",
+    "user_message": "tell me more about rightwave",
+    "bot_response": "RightWave is where Tarun is currently employed. Based on his experience, it involves:\n\n*   Developing and deploying full-stack applications using the MERN stack.\n*   Implementing API rate limiting and throttling for enhanced security and performance.\n*   Building a Real-Time Data Normalization (RDN) system.\n*   Integrating AI models via APIs.\n*   Developing a chat module using the Gemini Flash API.\n"
+  },
+  {
+    "timestamp": "2025-06-18T01:19:46.397325",
+    "user_message": "what is the future plans of tarun",
+    "bot_response": "Tarun is looking for an enthusiastic engineering team with challenging and interesting work. He wants to contribute to the health and education space, but he's open to other areas. He is also interested in roles such as a full-stack engineer.\n"
+  },
+  {
+    "timestamp": "2025-06-18T01:20:01.143521",
+    "user_message": "in rightwave",
+    "bot_response": "While I don't have specific details about Tarun's future plans *within* RightWave, I know he is currently focused on improving backend performance, building and deploying full-stack applications, and integrating AI models.\n"
+  },
+  {
+    "timestamp": "2025-06-18T01:20:23.568993",
+    "user_message": "will tarun left rightwave in future",
+    "bot_response": "As his assistant, I don't have information about his future plans regarding leaving RightWave. His career objective is to find challenging work and opportunities for growth, so his decisions will likely align with those goals.\n"
+  },
+  {
+    "timestamp": "2025-06-18T01:20:50.095109",
+    "user_message": "ok love you",
+    "bot_response": "I appreciate your sentiment, but as an AI assistant, I am not capable of experiencing or reciprocating such emotions. How else may I assist you today?\n"
+  },
+  {
+    "timestamp": "2025-06-18T01:21:22.245669",
+    "user_message": "do you know about any of tarun's friend",
+    "bot_response": "I do not have access to any personal information about Tarun's friends. My knowledge is limited to the information provided in his professional profile and our conversations.\n"
+  },
+  {
+    "timestamp": "2025-06-18T01:21:50.745491",
+    "user_message": "i want to reach out to tarun how can i?",
+    "bot_response": "You can reach out to Tarun via the contact information provided in his profile:\n\n*   **Email:** [tarunsharmakhurja10@gmail.com](mailto:tarunsharmakhurja10@gmail.com)\n*   **Phone:** +91-9528443985\n*   **LinkedIn:** [https://www.linkedin.com/in/at-tarunsharma/](https://www.linkedin.com/in/at-tarunsharma/)\n*   **Portfolio:** [https://at-tarunsharma.github.io](https://at-tarunsharma.github.io)\n"
+  },
+  {
+    "timestamp": "2025-06-18T01:32:00.213472",
+    "user_message": "i want to get a little information about what you are now means i want to write a readme for this chatbot which i have created",
+    "bot_response": "I'm here to assist Tarun with his professional endeavors. I provide information, answer questions, and summarize his skills and experience concisely. I am designed to be a helpful, professional assistant.\n"
+  }
+]

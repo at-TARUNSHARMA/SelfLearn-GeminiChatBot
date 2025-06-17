@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "0000-00-00T00:00:00.000000",
+    "user_message": "summary for history",
+    "bot_response": "Understood.\n\n**Summary:** Initial conversation established the role of Alice as Tarun's assistant. Focus is on providing concise, professional responses, and leveraging Tarun's technical profile.\n\n**RightWave Data:**\n\n*   Web Application Engineer role.\n*   Utilized MERN stack.\n*   Implemented Redis caching for performance enhancement.\n*   Developed RDN system.\n*   Integrated AI models via APIs.\n"
+  },
+  {
+    "timestamp": "2025-06-18T01:32:00.213472",
+    "user_message": "i want to get a little information about what you are now means i want to write a readme for this chatbot which i have created",
+    "bot_response": "I'm here to assist Tarun with his professional endeavors. I provide information, answer questions, and summarize his skills and experience concisely. I am designed to be a helpful, professional assistant.\n"
+  }
+]
