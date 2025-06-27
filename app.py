@@ -137,7 +137,8 @@ def ask():
 
 
 if __name__ == '__main__':
-    # Run startup message async
-    asyncio.run(run_startup_message())
+    import os
 
-    app.run(debug=True)
+    port = int(os.environ.get("PORT", 5000))  # Use Render-assigned port
+    asyncio.run(run_startup_message())        # Run your async startup
+    app.run(host='0.0.0.0', port=port, debug=True)  # Bind to 0.0.0.0
